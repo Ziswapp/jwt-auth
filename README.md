@@ -7,6 +7,8 @@
 [![Latest Dev Version](https://img.shields.io/packagist/vpre/tymon/jwt-auth.svg?style=flat-square&logo=composer)](https://packagist.org/packages/tymon/jwt-auth#dev-develop)
 [![Monthly Downloads](https://img.shields.io/packagist/dm/tymon/jwt-auth.svg?style=flat-square&logo=composer)](https://packagist.org/packages/tymon/jwt-auth)
 
+> This fork is support lcobucci/jwt version 3.4 and used for internal purpose. Not receive any Pull Request, please send to upstream instead.
+
 ## Documentation
 
 Documentation for `1.*` [here](http://jwt-auth.com)
